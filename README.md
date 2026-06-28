@@ -211,18 +211,12 @@ This project is licensed under the MIT License - see the LICENSE file for detail
 ## 📸 Screenshots & Demo
 
 *Interactive interface preview*
-```
-┌─────────────────────────────────────┐
-│  F.R.I.D.A.Y Assistant              │
-├─────────────────────────────────────┤
-│                                      │
-│  AI: Hello! How can I help you?     │
-│                                      │
-│  [Type your message here...]        │
-│                                      │
-│  [Send Button]                      │
-└─────────────────────────────────────┘
-```
+
+<img width="919" height="993" alt="Screenshot 2026-06-28 133919" src="https://github.com/user-attachments/assets/1f49196a-4b86-4711-aabf-3e2be14689a3" />
+
+<img width="921" height="999" alt="Screenshot 2026-06-28 134002" src="https://github.com/user-attachments/assets/0ef3bb7c-a0bf-4cad-845d-5668844bf773" />
+
+
 
 ---
 
