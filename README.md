@@ -182,7 +182,7 @@ This project is licensed under the MIT License - see the LICENSE file for detail
 ## 🤝 Support & Community
 
 ### Get Help
-- 📧 Email: [your-email@example.com]
+- 📧 Email: [iamhkhearts@gmail.com]
 - 💬 Issues: [GitHub Issues](https://github.com/hkhearts/F.R.I.D.A.Y/issues)
 - 💡 Discussions: [GitHub Discussions](https://github.com/hkhearts/F.R.I.D.A.Y/discussions)
 
@@ -223,23 +223,6 @@ This project is licensed under the MIT License - see the LICENSE file for detail
 │  [Send Button]                      │
 └─────────────────────────────────────┘
 ```
-
----
-
-## 🙏 Acknowledgments
-
-- Thanks to all contributors
-- Inspired by modern AI assistants
-- Built with passion and innovation
-
----
-
-## 📄 Additional Resources
-
-- [Documentation](./docs/README.md) - Full documentation
-- [API Reference](./docs/API.md) - API endpoints
-- [FAQ](./docs/FAQ.md) - Frequently Asked Questions
-- [Troubleshooting](./docs/TROUBLESHOOTING.md) - Common issues
 
 ---
 
